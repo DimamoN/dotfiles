@@ -42,6 +42,7 @@ alias rn=ranger
 alias terr=terraform
 alias terr_apply_force="terraform apply -auto-approve"
 alias terr_destroy_force="terraform destroy -auto-approve"
+alias mps=multipass
 
 # dlang
 alias dl=rdmd
